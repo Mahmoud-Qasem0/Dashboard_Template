@@ -1,0 +1,14 @@
+- Watch old templates ==> done
+- check UI to add your Ideas
+- Use any images
+- Good image make good designs
+- you can ignore Framework completely
+- not everything added to Framework to save time 'just giving you the Idea'
+
+
+
+
+<label>
+                        <input class="toggle-checkbox" type="checkbox" checked>
+                        <div class="toggle-switch"></div>
+                    </label>
